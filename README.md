@@ -1,2 +1,0 @@
-# stocks
-Created with CodeSandbox
